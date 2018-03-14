@@ -52,6 +52,8 @@ h2 {
 
 .col-lg-12 {
 	text-align: center;
+	color:#fff;
+	font-size: 12px;
 	
   
 }
@@ -96,4 +98,8 @@ h2 {
 .page-header{
 	color: white;
 	text-shadow: 2px 2px 3px #5DDCC7;
+}
+
+.pull-right {
+	float: right;
 }
